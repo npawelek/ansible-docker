@@ -1,0 +1,7 @@
+*.retry
+.idea
+.vscode
+.terraform
+*.tfstate
+*.plan
+.DS_Store
